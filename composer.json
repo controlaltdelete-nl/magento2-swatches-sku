@@ -1,0 +1,17 @@
+{
+  "name": "controlaltdelete/swatches-sku",
+  "version": "1.0.0",
+  "description": "N/A",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "ControlAltDelete\\SwatchesSku\\": ""
+    }
+  }
+}
