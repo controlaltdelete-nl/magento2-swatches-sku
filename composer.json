@@ -1,10 +1,10 @@
 {
   "name": "controlaltdelete/swatches-sku",
-  "description": "N/A",
   "type": "magento2-module",
   "require": {
     "magento/framework": "*"
   },
+  "license": "OSL-3.0",
   "autoload": {
     "files": [
       "registration.php"
