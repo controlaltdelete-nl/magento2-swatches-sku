@@ -15,6 +15,7 @@ define([
     'uiComponent',
     'ControlAltDelete_SwatchesSku/js/model/selected-product-sku',
 ], function (
+    Component,
     sku
 ) {
     'use strict';
